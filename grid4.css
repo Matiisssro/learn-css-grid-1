@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  grid-template-rows: 300px 300px;
+  grid-column-gap: 100px;
+  grid-row-gap: 50px;
+  background-color: pink;
+}
+.item-1 {
+  background-color: lightgreen;
+}
+.item-2 {
+  background-color: lightgreen;
+}
+.item-3 {
+  background-color: lightgreen;
+}
+.item-4 {
+  background-color: lightgreen;
+}
